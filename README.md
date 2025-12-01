@@ -9,9 +9,6 @@ An interactive particle system built with Three.js and MediaPipe Hands, allowing
 
 **🌐 Live Demo: [heart.dlyzzt.top](https://heart.dlyzzt.top)**
 
-## 🎬 演示视频 | Demo Video
-
-https://github.com/user-attachments/assets/demo.mov
 
 > 通过手势控制粒子的形态变化 | Control particle shapes through hand gestures
 
